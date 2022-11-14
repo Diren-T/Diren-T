@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there i am Diren
+> i am 30 years old and live in Dortmund,
+i would like to make Webdevelopment my passion
 
-<!--
-**Diren-T/Diren-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NOW**
+- I´m working on Github
+- I´m learning Webdevelopment 
 
-Here are some ideas to get you started:
+**reach me on**: [Instagram](https://www.instagram.com/diren.tkl/?hl=de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![link](https://image.stern.de/8397632/t/K6/v2/w1440/r1.7778/-/meme--1-.jpg)
+
+
