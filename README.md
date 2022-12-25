@@ -10,6 +10,6 @@ i would like to make Webdevelopment my passion
 
 
 
-![link](https://image.stern.de/8397632/t/K6/v2/w1440/r1.7778/-/meme--1-.jpg)
+<!---  ![link](https://image.stern.de/8397632/t/K6/v2/w1440/r1.7778/-/meme--1-.jpg)
 
 
