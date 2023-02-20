@@ -1,6 +1,6 @@
 # Hi, I'm Diren! 👋
 
-I'm a passionate frontend developer from Dortmund.
+I'm curious, creative, and always up for new challenges. In my free time, I enjoy music, architecture, and art. My interest in web development began when I started developing websites for my personal projects. I'm eager to share my skills on Github, so feel free to take a look around.
 
 - 🔭 I'm currently working on [CO2 Flight Tracker](https://vercel.com/diren-t/capstone-project).
 
